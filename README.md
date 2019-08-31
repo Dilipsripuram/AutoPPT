@@ -12,3 +12,5 @@ Contains Charts, text change and theme change.
 Either run a single ppt file or automate to run unlimited. All the code is properly commented.
 
 ![Food Attributes](https://github.com/Dilipsripuram/AutoPPT/blob/master/image_1.PNG)
+![Competitors](https://github.com/Dilipsripuram/AutoPPT/blob/master/image_2.PNG)
+
