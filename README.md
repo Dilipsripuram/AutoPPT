@@ -15,8 +15,8 @@ Either run a single ppt file or automate to run unlimited. All the code is prope
 ![Competitors](https://github.com/Dilipsripuram/AutoPPT/blob/master/image_2.PNG)
 
 # All the imports required
-*import numpy as np
-import pandas as pd
+-import numpy as np
+-import pandas as pd
 from pandas import ExcelWriter
 from pandas import ExcelFile
 import xlrd
