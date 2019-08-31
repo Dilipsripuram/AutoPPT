@@ -1,4 +1,5 @@
 # AutoPPT
+# Email me at dilipsripuram@gmail.com for source code
 Automatic PowerPoint presentation and report generation using python. 
 
 Used:
