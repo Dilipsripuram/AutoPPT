@@ -1,5 +1,5 @@
 # AutoPPT
-# Email me at dilipsripuram@gmail.com for source code
+# Run chick.py for generating only one row. Run Automate.py for generating powerpoints for all the rows in the source file
 Automatic PowerPoint presentation and report generation using python. 
 
 Used:
